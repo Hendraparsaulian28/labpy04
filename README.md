@@ -1,8 +1,8 @@
 # Program sederhana untuk menambahkan data kedalam sebuah list
 **Contoh Input Program Python3 (Vs code)**
 
-![alt text](image.png)
-![alt text](image-2.png)
+![alt text](/gambar/image.png)
+![alt text](/gambar/image-2.png)
 
 **Penjelasan program:**
 1.	Program mengumpulkan data setiap mahasiswa (Nama, NIM, Nilai Tugas, Nilai UTS, dan Nilai UAS), pada variabel mahasiswa yang masih kosong.
@@ -13,11 +13,11 @@
 
 **Contoh Output penggunaan**
 
-![alt text](image-1.png)
+![alt text](/gambar/image-1.png)
 
 ### Flowchart
 
-![alt text](image-3.png)
+![alt text](/gambar/image-3.png)
 
 **Penjelasan flowchart**
 
@@ -32,8 +32,8 @@
 # Latihan
 **Contoh Input Program Python3 (Vs code)**
 
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](/gambar/image-4.png)
+![alt text](/gambar/image-5.png)
 
 **Penjelasan code program**
 
@@ -44,4 +44,4 @@
 
 **Contoh Output**
 
-![alt text](image-6.png)
+![alt text](/gambar/image-6.png)
