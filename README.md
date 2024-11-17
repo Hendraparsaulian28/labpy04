@@ -1,5 +1,5 @@
 # Program sederhana untuk menambahkan data kedalam sebuah list
-**Contoh Input Program Python3 **
+**Contoh Input Program Python3**
 
 ![alt text](/gambar/image.png)
 ![alt text](/gambar/image-2.png)
@@ -30,7 +30,7 @@
 7.	Selesai: Program berakhir.
 
 # Latihan
-**Contoh Input Program Python3 **
+**Contoh Input Program Python3**
 
 ![alt text](/gambar/image-4.png)
 ![alt text](/gambar/image-5.png)
